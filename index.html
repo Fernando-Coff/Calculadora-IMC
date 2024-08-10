@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pr-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#262626">
+    <script src="https://kit.fontawesome.com/cc5f700981.js" crossorigin="anonymous"></script>
+    <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Calculadora IMC</title>
+</head>
+<body>
+
+    <main id="container">
+        
+        <section id="img">
+            <img src="assets/img/ilustration.svg" alt="Personal Trainner">
+        </section>
+
+        <section id="calculator">
+
+            <form id="form">
+                
+                <h1 id="title">Calculadora - IMC</h1>
+
+                <div class="imput-box">
+                    <label for="weigth">Peso em Kg</label>
+                    <div class="input-field">
+                        <i class="fa-solid fa-weight-hanging"></i>
+                        <input type="number" step="0.01" id="weigth" required>
+                        <span>Kg</span>
+                    </div>
+                </div>
+
+                <div class="imput-box">
+                    <label for="heigth">Altura em metros</label>
+                    <div class="input-field">
+                        <i class="fa-solid fa-ruler"></i>
+                        <input type="number" step="0.01"  id="heigth" required>
+                        <span>m</span>
+                    </div>
+                </div>
+                
+                <button id="calculate">Calcular</button>
+
+            </form>
+
+            <div id="infos" class="hidden">
+                <div id="result">
+
+                    <div id="bmi">
+                        <span id="value"></span>
+                        <span>Seu IMC</span>
+                    </div>
+                    <div id="description">
+                        <span>55</span>
+                    </div>
+
+                </div>
+
+                <div id="more_info">
+                    <a target="_blank" href="https://www.unimedcampinas.com.br/blog/cuidado-continuo/entenda-o-que-e-calculo-imc-e-para-que-serve">
+                        Mais informaçõe sobre IMC
+                        <i class="fa-solid fa-link"></i>
+                    </a>
+
+                </div>
+            </div>
+
+        </section>
+    </main>
+    <script src="assets/js/script.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+</body>
+</html>

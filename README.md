@@ -4,6 +4,8 @@ Funcionalidade:
 
 Este site, desenvolvido utilizando as linguagens HTML, CSS e JavaScript, oferece uma ferramenta prática e intuitiva para o cálculo do Índice de Massa Corporal (IMC). O usuário pode inserir seu peso e altura nos campos fornecidos, e o sistema realiza o cálculo automaticamente, exibindo o resultado em tempo real.
 
+Link de acesso : https://fernando-coff.github.io/Calculadora-IMC/
+
 Características:
 
     Interface amigável: O design limpo e intuitivo facilita a navegação e a utilização da calculadora, mesmo para usuários com pouca experiência em ferramentas online.

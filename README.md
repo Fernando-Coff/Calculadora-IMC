@@ -34,12 +34,6 @@ Possíveis funcionalidades adicionais:
     Cálculo da taxa metabólica basal (TMB): Estima a quantidade de calorias que o corpo gasta em repouso.
     Integração com aplicativos de saúde: Permite sincronizar os dados com outros aplicativos de monitoramento da saúde.
 
-# Fotos Do Projeto
-
-# Versão Desktop
-![Macbook-Air-127 0 0 1](https://github.com/user-attachments/assets/064c78a2-af17-457b-8dee-c778642630d1)
-# Versão Mobile
-![iPhone-12-PRO-MAX-127 0 0 1](https://github.com/user-attachments/assets/4777f542-e703-486b-b710-c40c21cab954)
-# Foto Real do Projeto
+## Foto Do Projeto
 ![cp09](https://github.com/user-attachments/assets/9e2b8cd6-e1d6-40f3-9ea9-cdcea31bd002)
 
